@@ -1,0 +1,1 @@
+#Es un archivo binario que R manejará por ti. Es como una "caja negra" donde se guardan las tablas. Si quieres "verlo" por curiosidad, podrías bajar un programa llamado SQLite Browser, pero para el proyecto, R se encarga de todo.
